@@ -1,0 +1,13 @@
+
+body{font-family:Arial,sans-serif;background:#f3f3f3;margin:0;padding:20px}
+.container{max-width:1200px;margin:auto}
+.card{background:#fff;padding:15px;border-radius:10px;margin-bottom:15px}
+input,select,button{width:100%;padding:10px;margin:5px 0;box-sizing:border-box}
+button{background:#5b3a29;color:#fff;border:none;border-radius:6px}
+table{width:100%;border-collapse:collapse}
+th,td{border:1px solid #ddd;padding:8px}
+th{background:#5b3a29;color:white}
+.stars span{font-size:30px;cursor:pointer;color:#ccc}
+.stars .on{color:gold}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:15px}
+.stats div{background:white;padding:15px;border-radius:10px;text-align:center}
